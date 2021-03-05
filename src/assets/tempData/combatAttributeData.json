@@ -1,0 +1,26 @@
+[
+    {
+        "attributeName": "vitality",
+        "value": 0
+    },
+    {
+        "attributeName": "evasion",
+        "value": 0
+    },
+    {
+        "attributeName": "armor",
+        "value": 0
+    },
+    {
+        "attributeName": "alacrity",
+        "value": 0
+    },
+    {
+        "attributeName": "tenacity",
+        "value": 0
+    },
+    {
+        "attributeName": "power",
+        "value": 0
+    }
+]

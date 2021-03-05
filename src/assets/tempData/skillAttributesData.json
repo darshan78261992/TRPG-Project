@@ -1,0 +1,92 @@
+[
+    {
+        "attribute": "Strength",
+        "skills": [
+            {
+                "name": "Fighting",
+                "rank": "",
+                "value": 0
+            }
+        ]
+    },
+    {
+        "attribute": "Dexterity",
+        "skills": [
+            {
+                "name": "Fighting",
+                "rank": "",
+                "value": 0
+            },
+            {
+                "name": "Thievery",
+                "rank": "",
+                "value": 0
+            },
+            {
+                "name": "Stealth",
+                "rank": "",
+                "value": 0
+            },
+            {
+                "name": "Archery",
+                "rank": "",
+                "value": 0
+            }
+        ]
+    },
+    {
+        "attribute": "Mind",
+        "skills": [
+            {
+                "name": "Learned",
+                "rank": "",
+                "value": 0
+            },
+            {
+                "name": "Survival",
+                "rank": "",
+                "value": 0
+            },
+            {
+                "name": "Perception",
+                "rank": "",
+                "value": 0
+            },
+            {
+                "name": "Apothecary",
+                "rank": "",
+                "value": 0
+            }
+        ]
+    },
+    {
+        "attribute": "Presence",
+        "skills": [
+            {
+                "name": "Intimidation",
+                "rank": "",
+                "value": 0
+            },
+            {
+                "name": "Performance",
+                "rank": "",
+                "value": 0
+            },
+            {
+                "name": "Manipulation",
+                "rank": "",
+                "value": 0
+            },
+            {
+                "name": "Insight",
+                "rank": "",
+                "value": 0
+            },
+            {
+                "name": "Power",
+                "rank": "",
+                "value": 0
+            }
+        ]
+    }
+]
